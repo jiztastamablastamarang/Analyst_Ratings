@@ -1,0 +1,12 @@
+selenium
+spacy
+urllib3
+requests
+import
+pandas
+numpy
+yfinance
+currencies
+dateparser
+beautifulsoup4
+fuckit
